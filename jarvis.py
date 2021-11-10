@@ -1,7 +1,6 @@
 import datetime
 import pyttsx3
 import speech_recognition as sr
-import pyaudio
 import wikipedia
 import os
 import webbrowser
